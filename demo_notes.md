@@ -6,14 +6,13 @@ Create React clone in under 30 lines of code
 
 Inspire you to be curious about React and JS, deep dive and dare to question any other technology.
 
-## The Plan ( TODO )
+## The Plan
 
-1. create simple react app ( codesandbox ) that has one component with state for counter and text ( controlled input )
-   the app comp. has to be able to unmount the component on button click
+1. Simple React app [demo](https://codesandbox.io/s/react-clone-demo-example-qm8im?file=/src/App.js)
 
-2. Explain breifly how hooks works based on the example app ( above )
+2. Breif explanation of how React hooks works based on the example app
 
-3. Refresher/Demo on JS Closures ( use later in the demo below )
+3. Refresher/Demo on JS Closures
 
 4. Recreate react with the functionality that covers the same example ( above )
 
@@ -53,11 +52,11 @@ counter(); // 1 2
 More practicle example
 
 ```js
-function HOF() { 
+function HOF() {
   // Encapsulates some logic
-  const x = 3; 
+  const x = 3;
 
-  function someFunc (y) {
+  function someFunc(y) {
     return x + y;
   }
 
