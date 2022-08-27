@@ -16,7 +16,7 @@ export const React = (() => {
         let hasChanged = true;
         // detect change
         if (oldDeps) {
-            hasChanged = depArr.some((dep, i) => !Object.is(dep, oldDeps[i]))
+            hasChanged = depArr.some((dep, i) => deps !== oldDeps[i]))
         }
         if (hasChanged) cb();
         
