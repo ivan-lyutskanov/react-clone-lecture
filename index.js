@@ -5,10 +5,6 @@ export const Component = () => {
 
     const [count, setCount] = React.useState(1);
 
-    // Rules of hooks violation - example
-    // if ( Math.random() > 0.5) {
-    //     const [count, setCount] = React.useState(1);
-    // }
     const [text, setText] = React.useState('Hello');
 
     // Custom hook
