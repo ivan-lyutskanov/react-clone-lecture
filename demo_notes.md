@@ -8,7 +8,7 @@ Inspire you to be curious about React and JS, deep dive and dare to question any
 
 ## The Plan
 
-1. Simple React app [demo](https://codesandbox.io/s/react-clone-demo-example-qm8im?file=/src/App.js)
+1. Simple React app [demo](https://codesandbox.io/s/react-clone-demo-example-bllzih?file=/src/App.js)
 
 2. Breif explanation of how React hooks works based on the example app
 
